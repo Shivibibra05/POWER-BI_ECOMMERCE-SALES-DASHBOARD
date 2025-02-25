@@ -1,6 +1,5 @@
 # POWER-BI_ECOMMERCE-SALES-DASHBOARD
-📊 Interactive Online Sales Dashboard<img width="588" alt="POWERBI-ECOMMERCE SALES DATA" src="https://github.com/user-attachments/assets/8289621d-9e82-4a8f-8baf-3457cc0c1f08" />
-
+📊 Interactive Online Sales Dashboard
 
 🚀 Overview
 
