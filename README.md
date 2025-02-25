@@ -8,7 +8,9 @@ This project features an interactive dashboard designed to track and analyze onl
 🛠️ Key Features
 
 Data Exploration: Used complex parameters for drill-down in worksheets, enabling detailed analysis.
+
 Customization & Filters: Applied slicers and filters for an enhanced user-driven experience.
+
 Data Integration: Connected and joined new tables, performed data manipulations with calculated fields.
 
 Advanced Visualizations: Implemented various customized chart types, including:
@@ -23,5 +25,7 @@ Advanced Visualizations: Implemented various customized chart types, including:
 📌 Highlights
 
 🔹 Optimized data-driven decision-making with powerful interactive elements.
+
 🔹 Enabled real-time filtering for refined insights.
+
 🔹 Designed for seamless user experience with intuitive dashboards.
