@@ -34,6 +34,13 @@ Advanced Visualizations: Implemented various customized chart types, including:
 
 <img width="588" alt="POWERBI-ECOMMERCE SALES DATA" src="https://github.com/user-attachments/assets/0cfcceb7-2e8f-46ac-bfcd-362a612bcfe9" />
 
+🏆 Technologies Used
+
+Data Visualization Tool:  Power BI
+
+Data Processing & Cleaning: SQL / Excel 
+
+Interactivity: Slicers, Filters, and Drill-down Features.
 
 
 
